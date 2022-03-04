@@ -1,2 +1,2 @@
 # acl
-Утилита для поиска файлов по записям в ACL
+Utility for searching files by entries in ACL
